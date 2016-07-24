@@ -10,5 +10,7 @@ python d4e.py [url-to-test.com]
 # example 
 ↪ python d4e.py google.com
 This site is ONLINE
+
+
 ↪ python d4e.py g00333gle.com
 This site is OFFLINE
